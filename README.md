@@ -9,4 +9,4 @@ Tecnologia usada: <br>
 <a href="https://opencv.org/">Opencv</a> <br>
 <a href="https://github.com/tesseract-ocr/tesseract">OCR Tesseract</a> <br>
 
-<s>Versão 1.0</s>
+<strong>Versão 1.0</strong>
